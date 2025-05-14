@@ -32,3 +32,7 @@ python ./main.py
 # video
 
 Q: how is the quality of the pizza?
+
+Q: are there vegan options?
+
+https://github.com/xgracias/local-ai-agent/blob/main/record.mp4
