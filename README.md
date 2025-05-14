@@ -14,6 +14,8 @@ pip install -r .\requirements.txt
 
 ## step 2 - install ollama
 
+https://ollama.com/
+
 ## step 3 - pull models
 
 ```bash
@@ -26,3 +28,7 @@ ollama pull mxbai-embed-large
 ```bash
 python ./main.py
 ```
+
+# video
+
+Q: how is the quality of the pizza?
