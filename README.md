@@ -6,7 +6,7 @@ Local AI Agent with RAG
 
 windows:
 
-```
+```bash
 python -m venv venv
 ./venv/Scripts/activate
 pip install -r .\requirements.txt
@@ -16,9 +16,13 @@ pip install -r .\requirements.txt
 
 ## step 3 - pull models
 
-```
+```bash
 ollama pull llama3.2
 ollama pull mxbai-embed-large
 ```
 
-## step 4 - 
+## step 4 - run the app
+
+```bash
+python ./main.py
+```
